@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Agri-Energy Connect", "Agri-Energy Connect\Agri-Energy Connect.ssmssqlproj", "{C3DE91BE-84A4-4DBC-900C-93995DE424D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DE91BE-84A4-4DBC-900C-93995DE424D1}.Default|Default.ActiveCfg = Default
+		{6CF53D9D-1B70-45A0-8FCF-202A45D3AFC5}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC88A51E-7B4C-4F4C-964C-F94E8E8D78D0}
+	EndGlobalSection
+EndGlobal
