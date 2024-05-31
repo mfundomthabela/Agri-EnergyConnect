@@ -42,4 +42,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Contact Details
 ## For further information, feel free to reach out:
 - Email: agriEner.conn@icloud.com
-- Project Link: https://github.com/mfundomthabela/Agri-EnergyConnect 
+- Project Link: https://github.com/mfundomthabela/Agri-EnergyConnect
+- https://advtechonline-my.sharepoint.com/:f:/g/personal/st10083777_vcconnect_edu_za/EvDWGiJOc9JPjbfY6fgTuaMBGEuldiCqadDdeBfxL-9-1g?e=g7sgkA
